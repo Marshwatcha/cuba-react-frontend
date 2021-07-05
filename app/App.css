@@ -1,0 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@200;800&display=swap');
+ิbody{
+  font-family: 'Prompt', sans-serif;
+  font-weight:200;
+}
+.header-layout{
+    height: 64px;
+    padding: 0 10px;
+    color: rgba(0,0,0,1);
+    background: #F4F6F6;
+}
+
+div.content-layout{
+  margin:1em auto auto auto;
+  width: 95%;
+  font-align: center;
+}
+
+h2.topic-content{
+  color: grey;
+   font-family: 'Prompt', sans-serif;
+   font-weight: 800;
+}

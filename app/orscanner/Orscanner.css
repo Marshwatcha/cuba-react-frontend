@@ -1,0 +1,40 @@
+.topic-content {
+  margin: 1em 1em 0.5em 0;
+}
+.content{
+ width: 100%;
+ height: auto;
+ border-radius:5px;
+ background-color: white;
+ border: 2px solid #D8D8D8;
+ display:flex;
+}
+.card-content-scan{
+   width: 100%;
+   text-align: left;
+   background: #fff;
+   margin-left: auto;
+   display:flex;
+   height: auto;
+}
+.product-content-scan{
+  width:85%;
+  margin: 2px 0 2px 5px;
+  display: grid;
+}
+
+.icon-in-content {
+ padding-top: 5px;
+ border: 0px;
+}
+
+button.btn-orscanner{
+  margin:5px 0 3px 0;
+  width:100%;
+  border: 0;
+  border-radius:5px;
+
+}
+button.sum-btn {
+  background: #84EC31;
+}

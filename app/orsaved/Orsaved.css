@@ -1,0 +1,38 @@
+h1 {
+   margin-left: 1em;
+}
+.text-content{
+  display: grid;
+  margin-left: 1em;
+}
+
+button.btn-orscanner{
+  margin:5px 0 3px 0;
+  width:100%;
+  border: 2px solid #E6E6E6;
+  border-radius:10px;
+
+}
+div.product-content{
+width:100%;
+border-radius: 10px;
+padding:5px;
+margin: 5px 0 5px 0px;
+display:flex;
+ justify-content: space-between;
+ background: #fff;
+}
+.content{
+ width: 100%;
+ height: auto;
+ border-radius:5px;
+ background-color: white;
+ border: 2px solid #D8D8D8;
+
+
+}
+.right-content{
+display: grid;
+text-align: right;
+margin-right: 0;
+}

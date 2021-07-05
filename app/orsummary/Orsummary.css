@@ -1,0 +1,43 @@
+h2.topic-content {
+margin-buttom: 10px;
+}
+.text-content{
+  display: grid;
+  margin-left: 1em;
+}
+div.form-input {
+  margin:5px 0 3px 0;
+  width:100%;
+  padding: 5px;
+  border-radius:5px;
+  background: #fff;
+}
+button.sum-btn {
+  background: #84EC31;
+}
+.content{
+ width: 100%;
+ height: auto;
+ border-radius:5px;
+ background-color: white;
+ border: 2px solid #D8D8D8;
+ display:flex;
+}
+.product-content{
+width:85%;
+margin: 2px 0 2px 5px;
+display: grid;
+}
+
+.icon-in-content {
+ padding-top: 5px;
+ border: 0px;
+}
+
+button.btn-orscanner{
+  margin:5px 0 3px 0;
+  width:100%;
+  border: 2px solid #E6E6E6;
+  border-radius:5px;
+
+}

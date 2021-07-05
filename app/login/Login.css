@@ -1,0 +1,46 @@
+.login-form {
+  border-radius: 4px;
+  background-image: linear-gradient(135deg, rgba(132, 158, 184, 1) 0%, rgba(247, 25, 136, 0.87) 33%);
+  padding: 20px 20px 0;
+  min-width: 150px;
+  box-shadow: 0 0 50px 0 rgba(0,0,0,0.2);
+}
+
+.logo {
+  display: inline-block;
+  vertical-align: top;
+  padding-right: 5px;
+  max-width: 50px;
+  max-height: 50px;
+}
+
+.language-switcher-container {
+  float: right;
+}
+
+.text-login {
+  position: relative;
+  display: inline-block;
+}
+
+.text-login h1{
+  font-weight: bold;
+  margin-bottom: -6px;
+}
+
+.text-login p{
+  float: right;
+  font-size: 8px;
+}
+
+.login-header {
+  display: flex;
+  justify-content: flex-end;
+}
+
+.btn-login {
+  color: white;
+  background-color: #35383b;
+  border-radius: 8px;
+  border: none;
+}

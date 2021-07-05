@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Prompt:wght@200;800&display=swap');
+
+.header-style {
+  display: flex;
+  justify-content: space-between;
+  color: #fff;
+}
+div.header-style {
+    padding: 1em;
+    color: #000;
+    text-align: right;
+}
+
+.user-name-style {
+  display: grid;
+  heigth: 64px;
+}
+p.user-name {
+  margin: 0em;
+  font-family: 'Prompt', sans-serif;
+}
+
